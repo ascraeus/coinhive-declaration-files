@@ -1,0 +1,1 @@
+# coinhive-declaration-files
